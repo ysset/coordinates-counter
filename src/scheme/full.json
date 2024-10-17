@@ -1,0 +1,73 @@
+{
+    "pointSize": 6,
+    "points": [
+        [
+            {
+                "degree": 2.83,
+                "distance": 59.8
+            },
+            {
+                "degree": 12.76,
+                "distance": 55.93
+            },
+            {
+                "degree": 19.67,
+                "distance": 59.82
+            },
+            {
+                "degree": 23.28,
+                "distance": 107.42
+            },
+            {
+                "degree": 34.44,
+                "distance": 113.34
+            },
+            {
+                "degree": 36.4,
+                "distance": 62.45
+            },
+            {
+                "degree": 43.36,
+                "distance": 44
+            },
+            {
+                "degree": 55.81,
+                "distance": 48.65
+            }
+        ],
+        [
+            {
+                "degree": 4.19,
+                "distance": 48.65
+            },
+            {
+                "degree": 16.64,
+                "distance": 44
+            },
+            {
+                "degree": 23.6,
+                "distance": 62.45
+            },
+            {
+                "degree": 25.56,
+                "distance": 113.34
+            },
+            {
+                "degree": 36.72,
+                "distance": 107.42
+            },
+            {
+                "degree": 40.33,
+                "distance": 59.82
+            },
+            {
+                "degree": 47.24,
+                "distance": 55.93
+            },
+            {
+                "degree": 57.17,
+                "distance": 59.8
+            }
+        ]
+    ]
+}
